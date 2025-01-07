@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mandiri News</string>
+    <string name="headline">Berita Terkini</string>
+    <string name="everything">Semua Berita</string>
+    <string name="news_title">Judul Berita</string>
+    <string name="news_description">Description</string>
+    <string name="news_source_name">Source Name</string>
+    <string name="news_published_at">DD MM, YY</string>
+</resources>
